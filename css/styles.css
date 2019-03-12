@@ -1,3 +1,4 @@
+/*styling mobile first*/
 body {
   background-color:#F0ECEE;
   font-weight: 300;
@@ -49,6 +50,8 @@ h2 {
 p {
   color: #88898B;
 }
+
+/*creating media query for desktop verison of website*/
 
 @media only screen and (min-width: 768px) {
   body {
